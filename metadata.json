@@ -1,0 +1,6 @@
+{
+  "name": "synOUT",
+  "description": "Autonomous personal data broker opt-out engine: discover disguised suppression portals, complete multi-step web forms via headless Chromium, and dispatch verified statutory deletion demands from your own email.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
